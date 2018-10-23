@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 
 """ 
-**Project Name:**      FACSAnim for FACSHuman facial expression creation tool
+**Project Name:**      FACSMidi controller based on FACSAnim for FACSHuman facial expression creation tool
 
-**Product Home Page:** http://lab.michaelgilbert.fr
+**Product Home Page:** http://www.michaelgilbert.fr/facshuman/
 
-**Code Home Page:**    http://lab.michaelgilbert.fr
+**Code Home Page:**    http://www.michaelgilbert.fr/facshuman/
 
 **Authors:**           Michaël GILBERT
 
